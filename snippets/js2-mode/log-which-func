@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: console.log which function called
+# key: lwf
+# binding: direct-keybinding
+# --
+console.log('${1:`(my-which-function)`} called');

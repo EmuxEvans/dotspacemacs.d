@@ -1,0 +1,15 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: latex
+# key: latex
+# binding: direct-keybinding
+# --
+
+#+TITLE: $1
+#+AUTHOR: $2
+#+EMAIL: $3
+#+OPTIONS: toc:3 num:nil
+#+STARTUP: overview
+#+LATEX_HEADER: \usepackage{xltxtra}
+#+LATEX_HEADER: \setmainfont{Hiragino Sans GB}
+#+LATEX_HEADER: \usepackage[paperheight=13in,paperwidth=14in]{geometry}
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-light.min.css" />

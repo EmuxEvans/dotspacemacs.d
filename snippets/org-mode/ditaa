@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ditaa
+# key: ditaa
+# --
+#+BEGIN_SRC ditaa :file res/${1:file}.png :cmdline -o -E -s 0.8
+    $0
+#+END_SRC

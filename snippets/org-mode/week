@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: week time
+# key: week
+# --
+`(get-china-week)` `(get-china-date)`
+     $1

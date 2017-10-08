@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: kanban
+# key: kanban
+# --
+
+| BACKLOG | TODO | STARTED | QA | BUG | DONE |
+|---------+------+---------+----+-----+------|
+|         |      |         |    |     |      |
+#+TBLFM: @2\$1..@>$$>>='(kanban-zero @# \$# nil '("$0"))::@1='(kanban-headers \$#)
+

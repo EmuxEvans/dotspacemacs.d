@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: week meeting
+# key: meeting
+# --
+* `(get-china-week)`
+** 王进銮
+*** Homekit 吸顶灯 [/]
+     $1
+** 卢鹏飞
+*** 菱形网关 [/]
+** 曾繁书
+*** C019 高端网关 [/]
+** 林连杰
+*** Loop [/]
+** 潘紫东
+*** C033 高端网关 [/]

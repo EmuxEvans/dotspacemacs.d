@@ -1,0 +1,11 @@
+# name: vertex-shader
+# --
+
+<script type="x-shader/x-vertex" id="vertex-shader">
+  attribute vec4 a_position;
+  $0
+  void main()
+  {
+    gl_Position = a_position;
+  }
+</script>

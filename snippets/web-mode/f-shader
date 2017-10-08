@@ -1,0 +1,9 @@
+# name: fragment-shader
+# --
+
+<script type="x-shader/x-fragment" id="fragment-shader">
+void main()
+{
+  gl_FragColor = vec4(1,0,0,1);
+}
+</script>

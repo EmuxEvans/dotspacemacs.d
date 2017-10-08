@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: insert full date
+# key: date
+# --
+`(cal-china-x-chinese-current-date-string)`

@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: comments
+# key: comments
+# binding: direct-keybinding
+# --
+#+JEKYLL_COMMENTS: true

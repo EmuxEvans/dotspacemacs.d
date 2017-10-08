@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: good morning
+# key: good
+# --
+`(get-china-week)` `(get-china-date)` `(get-baidu-weather)`					:`(format-time-string "%Y")`:`(format-time-string "%Y")``(format-time-string "%m")`:
+     $1

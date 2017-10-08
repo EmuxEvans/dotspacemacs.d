@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: qimg
+# key: qimg
+# binding: direct-keybinding
+# --
+![$0](http://guanghuiqu.qiniudn.com/$1)

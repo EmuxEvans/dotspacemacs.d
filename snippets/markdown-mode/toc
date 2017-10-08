@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: toc
+# key: toc
+# binding: direct-keybinding
+# --
+* toc
+{:toc}$0
